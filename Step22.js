@@ -5,4 +5,4 @@ let cities = ["London", "New York", "Mumbai"];
 console.log(cities);
 cities[cities.length - 1] = "Mexico City";
 console.log(cities);
-console.log(rows);
+console.log(rows);3
